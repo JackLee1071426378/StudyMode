@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">学习模式</string>
+    <string name="description_accessibility">帮助你集中注意力。</string>
+    <string name="setting">设置</string>
+    <string name="start">开始</string>
+    <string name="next">下一步</string>
+    <string name="until">直到：</string>
+    <string name="cancel">取消</string>
+    <string name="last">经过：</string>
+    <string name="permit">&#62;&gt;设置允许打开的APP&#60;&lt;</string>
+    <string name="permit_app">允许打开的APP：</string>
+    <string name="error_app_null">错误：无法找到这个APP。</string>
+    <string name="error_time_null">错误：请至少设置持续1分钟。</string>
+    <string name="confirm">确定 &#038; 继续</string>
+    <string name="hour">小时</string>
+    <string name="min">分钟</string>
+    <string name="hours">小时</string>
+    <string name="mins">分钟</string>
+    <string name="nil">（空）</string>
+    <string name="app_waiting">应用正在打开，请稍等。。。</string>
+    <string name="floating">请给予悬浮窗权限给本应用。</string>
+    <string name="usage">请给予查看应用使用情况权限给本应用。</string>
+    <string name="usage_null">您的手机没有查看应用使用情况功能，你暂时无法使用本应用，但我会在后续添加支持。</string>
+    <string name="floating_">如果您开启后学习模式没有起作用，请给予悬浮窗权限给本应用。</string>
+    <string name="forceExit">提供一个方法强制退出。</string>
+    <string name="forceExitHelp">如果你想退出，按住上面的时间，同时长按屏幕左下角，即可退出。</string>
+    <string name="permission_get">为了显示壁纸，请给予\"储存空间\"权限。</string>
+    <string name="ok">确认</string>
+    <string name="permission_get_setting">请允许本程序使用储存空间权限。</string>
+    <string name="latest">你的版本是最新的。</string>
+    <string name="error_server">服务器错误</string>
+    <string name="error_net">网络错误</string>
+    <string name="error_net_change">网络改变</string>
+    <string name="error_space">无法下载，空间不足</string>
+    <string name="error_permission">无法下载，没有权限</string>
+    <string name="error_unknown">未知错误</string>
+    <string name="update_check">检查更新</string>
+    <string name="update_found">发现新版本：</string>
+    <string name="downloading">下载中...</string>
+    <string name="update">升级</string>
+    <string name="checking">检查中...</string>
+</resources>
